@@ -63,4 +63,4 @@ async def clear(ctx, number = '0'):
     
 bot.add_command(clear)
 
-bot.run("Njk1OTQ2NDg3ODU0NjYxNjYy.XohlgA.HKFYq2PljgVOyqZIu7EPTifIC2A")
+bot.run(token)
